@@ -1,0 +1,16 @@
+{
+  "name": "reddit-noice-bot",
+  "version": "1.0.0",
+  "description": "A bot that, when authorized, will respond with \"noice\" whereever you comment on Reddit.",
+  "main": "index.js",
+  "scripts": {
+      "start": "node app.js"
+  },
+  "author": "Kris Molinari",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.1"
+  }
+}
