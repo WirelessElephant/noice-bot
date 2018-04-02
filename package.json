@@ -4,7 +4,7 @@
   "description": "A bot that, when authorized, will respond with \"noice\" whereever you comment on Reddit.",
   "main": "index.js",
   "scripts": {
-      "start": "node app.js"
+    "start": "node app.js"
   },
   "author": "Kris Molinari",
   "license": "MIT",
